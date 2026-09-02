@@ -1,0 +1,13 @@
+Package: bit
+Version: 0.4.5
+Architecture: amd64
+Maintainer: bit
+Installed-Size: 29567
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Section: devel
+Priority: optional
+Filename: pool/main/b/bit/BIT_0.4.5_amd64.deb
+Size: 9236326
+MD5sum: 58f24013e564e7f017bb05eff4b32d4f
+SHA256: ac65f346647d01e719887ab7b74bff29d823791c6a55c7a2d14f084edfccef6a
+Description: BIT - Agent Tool Hub with audit and remote access
