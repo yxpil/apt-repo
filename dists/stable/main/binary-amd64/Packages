@@ -7,7 +7,7 @@ Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Section: devel
 Priority: optional
 Filename: pool/main/b/bit/BIT_0.5.7_amd64.deb
-Size: 3426844
-MD5sum: 4b60ad1f17fdcd159b7125a0f545ffc4
-SHA256: 0c961073a4e303833d77f5dfd6b0c5c9adece2af853c8cbaddbba844f7797d0a
+Size: 9736202
+MD5sum: 8e0edb13b19f8af5404f32f6d6c41d29
+SHA256: a845709469688ffcca2093a023602b926dabc10b626d11532ef336eb60545a11
 Description: BIT - Agent Tool Hub with audit and remote access
