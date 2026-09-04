@@ -7,7 +7,7 @@ Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, librsvg2-2
 Section: devel
 Priority: optional
 Filename: pool/main/b/bit/bit_0.5.7_riscv64.deb
-Size: 6448752
-MD5sum: 286ed983a149eec4911ef4e5b61a3a7e
-SHA256: 559ecfb59a5815ed7c65c1585a9e854327dfe9ad40e18377ef5d594d746b75f7
+Size: 6447060
+MD5sum: b04210cca62218c97f28d74dd7fbe1dd
+SHA256: ff10b9bc90d97b14a2ea43324868e3bfccac1b42520a90822ef2c7a78c6e0f41
 Description: BIT - AI 工具集（本地优先，多端适配）
