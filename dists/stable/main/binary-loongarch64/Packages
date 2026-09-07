@@ -1,11 +1,11 @@
 Package: bit
-Version: 0.5.17
+Version: 0.5.18
 Architecture: loongarch64
 Maintainer: yxpil <yxpil@users.noreply.github.com>
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, librsvg2-2
 Priority: optional
 Description: BIT - AI 工具集（本地优先，多端适配）
-Filename: pool/main/b/bit/bit_0.5.17_loongarch64.deb
-Size: 8731724
-MD5sum: 4fb118e7e8e3dd07edbe2eae88d88a29
-SHA256: 89cc0e9565a05a9c391751a8f34cc487d367b61c29dd03db082993e0921cf275
+Filename: pool/main/b/bit/bit_0.5.18_loongarch64.deb
+Size: 8745012
+MD5sum: 7e2bc27429891bf2d30bb82ac6e1d200
+SHA256: 93d3ac5e863bcbf5009e98b9beba2899fbb961c516388b790583e229c1f88434
