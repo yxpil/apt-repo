@@ -1,11 +1,11 @@
 Package: bit
-Version: 0.5.17
+Version: 0.5.18
 Architecture: ppc64le
 Maintainer: yxpil <yxpil@users.noreply.github.com>
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, librsvg2-2
 Priority: optional
 Description: BIT - AI 工具集（本地优先，多端适配）
-Filename: pool/main/b/bit/bit_0.5.17_ppc64le.deb
-Size: 9545652
-MD5sum: 2d7a609ae41b55def4d15def63efdb98
-SHA256: 487687a1d80e209f4ab99e1bfbf8eea25a3eef36c3319e1efa2414dc36591439
+Filename: pool/main/b/bit/bit_0.5.18_ppc64le.deb
+Size: 9558896
+MD5sum: b8b620d9615328d5a45a759db5150ba9
+SHA256: 56d5bb8bcd06e7af72c54e371b120a782ff14081f7fd34aa3e2fd256eb3926a0
