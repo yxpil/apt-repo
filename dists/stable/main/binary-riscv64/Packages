@@ -1,11 +1,11 @@
 Package: bit
-Version: 0.5.18
+Version: 0.5.19
 Architecture: riscv64
 Maintainer: yxpil <yxpil@users.noreply.github.com>
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libayatana-appindicator3-1, librsvg2-2
 Priority: optional
 Description: BIT - AI 工具集（本地优先，多端适配）
-Filename: pool/main/b/bit/bit_0.5.18_riscv64.deb
-Size: 9547728
-MD5sum: e4cf58e4bd33ca24dde98bdd50bd82ac
-SHA256: c372a4a71ab7427038c6fa95ffa1fad5f5faa3255376c0fd2c9c88dfaf56a18c
+Filename: pool/main/b/bit/bit_0.5.19_riscv64.deb
+Size: 9567492
+MD5sum: 4d99f3ac20c1cdb6108c304d6eecefea
+SHA256: c16587be8423a31a62a882643c7a73e30bdabcecacc6f2dfe344b313e925569c
