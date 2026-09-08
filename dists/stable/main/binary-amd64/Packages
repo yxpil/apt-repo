@@ -1,13 +1,13 @@
 Package: bit
-Version: 0.5.30
+Version: 0.5.31
 Architecture: amd64
 Maintainer: bit
-Installed-Size: 38488
+Installed-Size: 38517
 Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Description: BIT - Agent Tool Hub with audit and remote access
  (none)
-Filename: pool/main/b/bit/BIT_0.5.30_amd64.deb
-Size: 13416536
-MD5sum: fd42af5e78d102e78829ced17328be72
-SHA256: e7d6969defd88952fd624cdada74a8f276bc600073be4e95fb897f0e2c15a44a
+Filename: pool/main/b/bit/BIT_0.5.31_amd64.deb
+Size: 13432848
+MD5sum: 2c1fcfc80976476c70afdba57c91fe96
+SHA256: f0892bdc0a7341334bc1d859af9a47e7288003b9f516feaeb9059cf8000b8272
